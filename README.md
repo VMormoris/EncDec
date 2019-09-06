@@ -6,7 +6,7 @@ EncDec is a library that helps you create binary data from Java variables and th
 Extended documentation on how to use the library can be found [here](http://mormoris.gr/EncDec/doc).
 
 # Building
-It is highly recommended to build the library yourself, but if you are not up for it you can find JARs for some versions of OpenJDK [here](http://mormoris/EncDec/bin).
+It is highly recommended to build the library yourself, but if you are not up for it you can find JARs for some versions of OpenJDK [here](http://mormoris.gr/EncDec/bin).
 
 * __With Command line:__<br>
   `mkdir build`<br>
