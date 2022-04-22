@@ -63,7 +63,3 @@ It is highly recommended to build the library yourself, but if you are not up fo
 
 * _Fell free to contribute to any of the [open issues](https://github.com/VMormoris/EncDec/issues) or open a new one describing what you want to do._
 * _For small-scale improvements and fixes simply submit a GitHub pull request._
-
-# Community
-
-Please [join](https://discord.gg/Fz2rteF) our Discord server to ask questions about the library and help others with their questions.
